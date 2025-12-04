@@ -20,4 +20,3 @@ It allows users to add books, issue/return them, search the catalog, and store e
 
 ## Project Goal
 To understand OOP design and build a small, functional library management system using Python.
-
